@@ -7,7 +7,7 @@
 
 ## Antes de começar
 
-1. Abra o endereço do MVP em um navegador atualizado.
+1. Abra o endereço do MVP em um navegador atualizado. O acesso da banca é público e não exige VPN.
 2. Utilize as credenciais da banca enviadas no canal restrito da entrega.
 3. Considere o projeto e os dados de demonstração disponibilizados para esse perfil.
 4. Use somente repositórios e informações autorizados para avaliação.

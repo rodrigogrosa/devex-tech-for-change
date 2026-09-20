@@ -194,7 +194,7 @@ O endereço do MVP respondeu a uma consulta HTTP em **20/09/2026**. Essa verific
 | **Ronaldo Porto Rodrigues Filho** | **RM369789** |
 | **Wellen de Freitas Silva** | **RM375652** |
 
-Papel informado de Rodrigo Rosa: gestão de produto e desenvolvimento. Os papéis e as expertises dos demais integrantes não foram especificados no material recebido; não são presumidos nesta documentação.
+Contribuições da equipe: Rodrigo Rosa conduziu produto, desenvolvimento, inteligência artificial e arquitetura corporativa; Wellen de Freitas Silva estruturou estratégia de negócios, governança e jurídico; Ronaldo Porto Rodrigues Filho estruturou planejamento financeiro, contabilidade e dados.
 
 **Contato:** [rodrigo.grosa2011@gmail.com](mailto:rodrigo.grosa2011@gmail.com)
 
